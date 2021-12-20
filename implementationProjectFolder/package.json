@@ -1,0 +1,26 @@
+{
+  "name": "BlockChain-SupplyChain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "hardhat compile",
+    "test:light": "hardhat test",
+    "test": "hardhat coverage",
+    "deploy:local" : "hardhat run --network localhost scripts/deployContract.js",
+    "testFunctions:local" : "hardhat run --network localhost scripts/testResourceLocal.js",
+    "local-testnet" : "hardhat node"
+  },
+  "keywords": [],
+  "author": "Riley Wall",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.4.7",
+    "hardhat": "^2.6.5",
+    "solidity-coverage": "^0.7.17"
+  }
+}

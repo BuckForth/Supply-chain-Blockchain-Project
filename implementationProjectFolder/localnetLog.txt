@@ -1,0 +1,283 @@
+
+> BlockChain-SupplyChain@1.0.0 local-testnet C:\Users\riley\OneDrive\Desktop\BlockChain Project\ProjectFolder
+> hardhat node
+
+Started HTTP and WebSocket JSON-RPC server at http://127.0.0.1:8545/
+
+Accounts
+========
+Account #0: 0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266 (10000 ETH)
+Private Key: 0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80
+
+Account #1: 0x70997970c51812dc3a010c7d01b50e0d17dc79c8 (10000 ETH)
+Private Key: 0x59c6995e998f97a5a0044966f0945389dc9e86dae88c7a8412f4603b6b78690d
+
+Account #2: 0x3c44cdddb6a900fa2b585dd299e03d12fa4293bc (10000 ETH)
+Private Key: 0x5de4111afa1a4b94908f83103eb1f1706367c2e68ca870fc3fb9a804cdab365a
+
+Account #3: 0x90f79bf6eb2c4f870365e785982e1f101e93b906 (10000 ETH)
+Private Key: 0x7c852118294e51e653712a81e05800f419141751be58f605c371e15141b007a6
+
+Account #4: 0x15d34aaf54267db7d7c367839aaf71a00a2c6a65 (10000 ETH)
+Private Key: 0x47e179ec197488593b187f80a00eb0da91f1b9d0b13f8733639f19c30a34926a
+
+Account #5: 0x9965507d1a55bcc2695c58ba16fb37d819b0a4dc (10000 ETH)
+Private Key: 0x8b3a350cf5c34c9194ca85829a2df0ec3153be0318b5e2d3348e872092edffba
+
+Account #6: 0x976ea74026e726554db657fa54763abd0c3a0aa9 (10000 ETH)
+Private Key: 0x92db14e403b83dfe3df233f83dfa3a0d7096f21ca9b0d6d6b8d88b2b4ec1564e
+
+Account #7: 0x14dc79964da2c08b23698b3d3cc7ca32193d9955 (10000 ETH)
+Private Key: 0x4bbbf85ce3377467afe5d46f804f221813b2bb87f24d81f60f1fcdbf7cbf4356
+
+Account #8: 0x23618e81e3f5cdf7f54c3d65f7fbc0abf5b21e8f (10000 ETH)
+Private Key: 0xdbda1821b80551c9d65939329250298aa3472ba22feea921c0cf5d620ea67b97
+
+Account #9: 0xa0ee7a142d267c1f36714e4a8f75612f20a79720 (10000 ETH)
+Private Key: 0x2a871d0798f97d79848a013d4936a73bf4cc922c825d33c1cf7073dff6d409c6
+
+Account #10: 0xbcd4042de499d14e55001ccbb24a551f3b954096 (10000 ETH)
+Private Key: 0xf214f2b2cd398c806f84e317254e0f0b801d0643303237d97a22a48e01628897
+
+Account #11: 0x71be63f3384f5fb98995898a86b02fb2426c5788 (10000 ETH)
+Private Key: 0x701b615bbdfb9de65240bc28bd21bbc0d996645a3dd57e7b12bc2bdf6f192c82
+
+Account #12: 0xfabb0ac9d68b0b445fb7357272ff202c5651694a (10000 ETH)
+Private Key: 0xa267530f49f8280200edf313ee7af6b827f2a8bce2897751d06a843f644967b1
+
+Account #13: 0x1cbd3b2770909d4e10f157cabc84c7264073c9ec (10000 ETH)
+Private Key: 0x47c99abed3324a2707c28affff1267e45918ec8c3f20b8aa892e8b065d2942dd
+
+Account #14: 0xdf3e18d64bc6a983f673ab319ccae4f1a57c7097 (10000 ETH)
+Private Key: 0xc526ee95bf44d8fc405a158bb884d9d1238d99f0612e9f33d006bb0789009aaa
+
+Account #15: 0xcd3b766ccdd6ae721141f452c550ca635964ce71 (10000 ETH)
+Private Key: 0x8166f546bab6da521a8369cab06c5d2b9e46670292d85c875ee9ec20e84ffb61
+
+Account #16: 0x2546bcd3c84621e976d8185a91a922ae77ecec30 (10000 ETH)
+Private Key: 0xea6c44ac03bff858b476bba40716402b03e41b8e97e276d1baec7c37d42484a0
+
+Account #17: 0xbda5747bfd65f08deb54cb465eb87d40e51b197e (10000 ETH)
+Private Key: 0x689af8efa8c651a91ad287602527f3af2fe9f6501a7ac4b061667b5a93e037fd
+
+Account #18: 0xdd2fd4581271e230360230f9337d5c0430bf44c0 (10000 ETH)
+Private Key: 0xde9be858da4a475276426320d5e9262ecfc3ba460bfac56360bfa6c4c28b4ee0
+
+Account #19: 0x8626f6940e2eb28930efb4cef49b2d1f2c9c1199 (10000 ETH)
+Private Key: 0xdf57089febbacf7ba0bc227dafbffa9fc08a93fdc68e1e42411a14efcf23656e
+
+hardhat_addCompilationResult
+[?25l[Fhardhat_addCompilationResult (2)[K
+[?25hweb3_clientVersion
+[?25l[Fweb3_clientVersion (2)[K
+[?25heth_chainId
+eth_accounts
+eth_blockNumber
+eth_chainId
+[?25l[Feth_chainId (2)[K
+[?25heth_estimateGas
+eth_getBlockByNumber
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: ResourceContract
+  Contract address:    0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Transaction:         0xeac0c76e886178481f3091116fcca2523d3dbd615d0874e0fe3389c334dd7e1d
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  Value:               0 ETH
+  Gas used:            1624411 of 1624411
+  Block #1:            0x5f013ca983d8f55eb383404e91d19516590c8c72ac144daade6947b15b3581bf
+
+eth_chainId
+eth_getTransactionByHash
+web3_clientVersion
+[?25l[Fweb3_clientVersion (2)[K
+[?25heth_chainId
+eth_accounts
+eth_blockNumber
+eth_chainId
+[?25l[Feth_chainId (2)[K
+[?25heth_estimateGas
+eth_getBlockByNumber
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: ResourceContract
+  Contract address:    0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Transaction:         0x55ed25db35c95e30ecfc743439c5186900c416e723b238cae52bcb5b0f533797
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  Value:               0 ETH
+  Gas used:            1624411 of 1624411
+  Block #2:            0x43c079933b1392e3caba0adcfad778e67110a0d4c94cfcff016c43c1b9ee24c0
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract call:       ResourceContract#joinMarket
+  Transaction:         0xdeb1cd7d1d7c94dfec244fbab4fa1fd92fcf7c220c416d44f7b7e430ee5113ac
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0 ETH
+  Gas used:            88761 of 88761
+  Block #3:            0x96ec98203241bfdb48524ac5b759604d923cd3c6428bf9d12535b0b6ac5f22ea
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract call:       ResourceContract#joinMarket
+  Transaction:         0x8061d16143c7bf771274b3cdce809dc74edd353272418f01358606a6ce10dcf1
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0 ETH
+  Gas used:            71661 of 71661
+  Block #4:            0x26d04e4c0d33c13883c494a5e32f3febeca13d3430dd5eedb280aba3704ae810
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract call:       ResourceContract#joinMarket
+  Transaction:         0x12a1327f254caca0cb35128a204f63b425e006821f11f1e90241003543c7a100
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0 ETH
+  Gas used:            71661 of 71661
+  Block #5:            0xf9e3a23f3c29618aa453e1f8d36639022430e779578a30f401e6fa9b23bac1b6
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract call:       ResourceContract#joinMarket
+  Transaction:         0x884951d356e67881c8e0a3210ab5abdb78c81a32cc4a987c56e02f7a5f7fcd96
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0 ETH
+  Gas used:            71661 of 71661
+  Block #6:            0xcda11e270391f64af6415ff4926f16bc9fae9f966fbfd01db1da06d7499f0d18
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract call:       ResourceContract#addListing
+  Transaction:         0x738414b1d6ab924d95e2681f1a90181d69549184c300464fdd0ae4daceadda38
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0 ETH
+  Gas used:            140230 of 140230
+  Block #7:            0x01e33483b906c901da32435410fe55f0d4e003eaab699666d9be12b4b4fd22f3
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract call:       ResourceContract#addListing
+  Transaction:         0x1959e290c7549a53c7ef85d9fe801dcd74338929fbfd5c903c008b087b0b3505
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0 ETH
+  Gas used:            143042 of 143042
+  Block #8:            0xaf88af856619561479055d519620600b76eae32fa5362e1cdcb71d71497ab2c5
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract call:       ResourceContract#addListing
+  Transaction:         0x68db4b688209d56948ac64d485e5b7914fb8713cdcc96c601dd3895c01fdb099
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0 ETH
+  Gas used:            143042 of 143042
+  Block #9:            0x1182595b1c5b551170e5b3f96154944f98f8fb30a3a7524ca6d0c04103ad6853
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract call:       ResourceContract#addListing
+  Transaction:         0x4b2d8fc657d9cae82071771bbee6103160c1f89ffc885fb281a2c1eb4130644a
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0 ETH
+  Gas used:            143042 of 143042
+  Block #10:           0x690bfe78101c85420b4470701c34381856b69f18efc9a8ba49e13f30a54ca56e
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract call:       ResourceContract#purchaseResource
+  Transaction:         0xfc9650118d282dd4a84660d293331a77b09df24dcb799130ee12f4fb0c28900a
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0 ETH
+  Gas used:            195058 of 195058
+  Block #11:           0xb9bdde119d7680490a997a9d67c499d7b9222c5907da9268f3afc28076886926
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract call:       ResourceContract#purchaseResource
+  Transaction:         0xd99b97ee819efac22969c7fb878b06161f8a732392b086870b18dbdc473f1974
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0 ETH
+  Gas used:            197858 of 197858
+  Block #12:           0xc7288ffd94af75a13489e4d111bdea1b9a707942ab690aa18e813c2f132ad9a5
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract call:       ResourceContract#purchaseResource
+  Transaction:         0x2519a62e64eea3f160b833368f0166a3d1f518064f045398ab2adfc3c6518919
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0 ETH
+  Gas used:            197870 of 197870
+  Block #13:           0x03921a98cccb9826dcd66277969ccfd463217056adbb0cb47b4acf2d84c397db
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract call:       ResourceContract#purchaseResource
+  Transaction:         0x7d275ca9c19c38a942dd15bf108b6170ec669f531a40f29a536dff045a0c68af
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0 ETH
+  Gas used:            197870 of 197870
+  Block #14:           0xa34cbd8650d4012f887535174468dd3a7d48b5007882554713c70b317b11af42
+
+eth_chainId
+eth_getTransactionByHash
+Terminate batch job (Y/N)? 
